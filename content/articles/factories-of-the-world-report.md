@@ -1,16 +1,29 @@
 ---
-title: "The Factories of The World Report"
-excerpt: "A research-led exploration into Nigeria’s artisanal micro-factory economy and the systems required to make it visible, investable, and scalable."
-category: "Research Report"
+title: "Factories of The World (FOTWRLD) — Research Portfolio Case Study"
+excerpt: "A comprehensive operational and research engagement documenting Nigeria’s artisanal micro-factory sector through field research, institutional partnerships, and production systems design."
+category: "Research Portfolio"
 industry: "Artisanal Manufacturing"
-method: "Field Research"
+method: "Field Research & Case Study"
 location: "Kaduna, Nigeria"
-readTime: "25 min"
+readTime: "30 min"
 published: "2026-04-10"
 subject: "Factories of The World (FOTWRLD)"
-discipline: "Operations & Cultural Economy"
+discipline: "Operations, Cultural Economy, Research"
 featured: true
-archiveId: "FTW-001-RR-NG"
+archiveId: "FTW-001-RP-NG"
+---
+
+## Research Overview
+
+**Organisation:** Factories of The World (FOTWRLD)  
+**Lead Researcher:** Halima Abdul (Sadia)  
+**Role:** Operations Manager / Principal Assistant  
+**Location:** Kaduna, Nigeria  
+**Period:** 2025–2026 (Ongoing)  
+
+Factories of The World (FOTWRLD) is an independent research and production platform operating at the intersection of cultural heritage and industrial economy.
+
+This research portfolio documents one year of operational and research engagement across artisan systems, institutional partnerships, exhibitions, and publication design.
 ---
 
 ## Introduction
