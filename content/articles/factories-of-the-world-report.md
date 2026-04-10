@@ -19,7 +19,7 @@ Factories of The World (FOTWRLD) is an independent research and production platf
 
 Operating at the intersection of cultural heritage and industrial economy, the platform asks a single foundational question:
 
-**How do we make Nigeria’s artisans visible, investable, and sustainable?**
+> **How do we make Nigeria’s artisans visible, investable, and sustainable?**
 
 ## Context
 
@@ -49,8 +49,8 @@ FOTWRLD operates with a field-first, practitioner-led research model:
 - Long-form artisan interviews
 - Studio and factory observation
 - Case-study structured documentation
-- Multi-format outputs (print, exhibitions, video, digital)
-- Institutional partnerships (NCMM, ABU, government bodies)
+- Multi-format outputs
+- Institutional partnerships
 
 This approach ensures research is not theoretical — it is operational.
 
@@ -76,11 +76,10 @@ A central intervention is the creation of a shared infrastructure system for art
 
 ## Key Insight
 
-The core finding is simple but powerful:
-
 > Nigeria’s artisanal sector does not lack talent — it lacks visibility infrastructure.
 
 When properly documented and positioned:
+
 - artisans become investable
 - institutions engage
 - markets respond
@@ -90,8 +89,9 @@ When properly documented and positioned:
 FOTWRLD operates *inside* institutions, not outside them.
 
 By anchoring within:
-- National Commission for Museums and Monuments (NCMM)
-- Ahmadu Bello University (ABU)
+
+- National Commission for Museums and Monuments
+- Ahmadu Bello University
 - Government agencies
 
 …it transforms heritage spaces into **active production systems**, not just archives.
@@ -101,12 +101,11 @@ By anchoring within:
 Factories of The World is not just a research project — it is infrastructure.
 
 It builds:
+
 - documentation systems
 - institutional bridges
 - economic pathways
 
 for a sector that has historically operated without them.
 
-The long-term goal remains clear:
-
-**to design systems where artisanal production is visible, valued, and scalable within the global economy.**
+**The long-term goal remains clear: to design systems where artisanal production is visible, valued, and scalable within the global economy.**
